@@ -1,0 +1,100 @@
+gene,mutation,score,mechanism,promotif,comment
+IMPDH,R181W,0.924,Altered Ordered interface (Pr = 0.37 | P = 3.0e-03); Loss of Relative solvent accessibility (Pr = 0.35 | P = 2.3e-03); Altered Metal binding (Pr = 0.34 | P = 1.5e-03); Loss of Catalytic site at I177 (Pr = 0.31 | P = 1.6e-03); Loss of Allosteric site at G180 (Pr = 0.31 | P = 3.5e-03); Altered Transmembrane protein (Pr = 0.29 | P = 2.7e-04); Altered DNA binding (Pr = 0.19 | P = 0.03), PS00008,Predicted conservation scores
+menE_1,H293N,0.544,Altered Metal binding (Pr = 0.32 | P = 3.1e-03), ELME000148|ELME000193|PS00008,Predicted conservation scores
+menE_1,G224A,0.741,Loss of Catalytic site at D222 (Pr = 0.30 | P = 1.8e-03); Altered Metal binding (Pr = 0.25 | P = 7.2e-03); Loss of Allosteric site at H221 (Pr = 0.25 | P = 0.01), PS00008,Predicted conservation scores
+inhA_1,L205V,0.186,-,-,Predicted conservation scores
+ENSB:TINZufu3VryLVXP,P566S,0.58,Gain of Strand (Pr = 0.27 | P = 0.02); Gain of Loop (Pr = 0.26 | P = 0.05); Gain of Relative solvent accessibility (Pr = 0.25 | P = 0.03); Altered Metal binding (Pr = 0.22 | P = 0.02); Gain of Proteolytic cleavage at D565 (Pr = 0.11 | P = 0.04); Altered Transmembrane protein (Pr = 0.10 | P = 0.04), ELME000147|PS00006,Predicted conservation scores
+ldtA,H80R,0.281,-,-,Predicted conservation scores
+ENSB:s-TZXx-vKFlayI7,A35T,0.205,-,-,Predicted conservation scores
+ENSB:DlVSVexFQv0U1hA,T221A,0.162,-,-,Predicted conservation scores
+ENSB:o6NmKnzrH-R57PJ,A240T,0.3,-,-,Predicted conservation scores
+ENSB:lAePF_hlBENxXg1,H88R,0.852,Altered Ordered interface (Pr = 0.30 | P = 0.02); Gain of Allosteric site at H88 (Pr = 0.26 | P = 7.2e-03); Loss of Relative solvent accessibility (Pr = 0.25 | P = 0.03); Altered Transmembrane protein (Pr = 0.15 | P = 0.02); Altered Metal binding (Pr = 0.14 | P = 0.02); Gain of Pyrrolidone carboxylic acid at Q89 (Pr = 0.14 | P = 5.6e-03); Loss of Catalytic site at Y86 (Pr = 0.11 | P = 0.03), ELME000163,Predicted conservation scores
+ENSB:KMGT6gYiRZ6OQUs,E385K,0.313,-,-,Predicted conservation scores
+thiO,Q87R,0.384,-,-,Predicted conservation scores
+ENSB:6yibSnV5wp_yX9u,V11I,0.323,-,-,Predicted conservation scores
+ENSB:PH8HxL3MAdZmH95,R441W,0.159,-,-,Predicted conservation scores
+ENSB:_ZTO890LwAdQlj5,H305R,0.754,Altered Metal binding (Pr = 0.30 | P = 0.01); Loss of Loop (Pr = 0.28 | P = 0.01); Altered Transmembrane protein (Pr = 0.18 | P = 7.8e-03); Gain of Catalytic site at E309 (Pr = 0.13 | P = 0.03), ELME000062,Predicted conservation scores
+ENSB:x9mWhM8BRuaL9b-,P556L,0.412,-,-,Predicted conservation scores
+mdtD_1,G142D,0.874,Altered Transmembrane protein (Pr = 0.30 | P = 0.02); Gain of Catalytic site at R138 (Pr = 0.12 | P = 0.03); Loss of Pyrrolidone carboxylic acid at Q141 (Pr = 0.05 | P = 0.04), None,Predicted conservation scores
+lpqS,R39C,0.163,-,-,Predicted conservation scores
+ENSB:voC8Yt9AbS8raLg,Q8K,0.431,-,-,Predicted conservation scores
+ephA_1,A108V,0.287,-,-,Predicted conservation scores
+ENSB:AZR0lzX_HZ2ZZAV,A107T,0.116,-,-,Predicted conservation scores
+kgd,E333D,0.51,Altered Metal binding (Pr = 0.27 | P = 0.03); Gain of Relative solvent accessibility (Pr = 0.25 | P = 0.04); Altered Transmembrane protein (Pr = 0.17 | P = 9.8e-03), ELME000064|ELME000193|ELME000220|ELME000335|PS00006,Predicted conservation scores
+lprH,P190L,0.32,-,-,Predicted conservation scores
+ENSB:DGqVZDHCA92gZNz,E311Q,0.26,-,-,Predicted conservation scores
+ENSB:SMftv5HYbnuG0cj,G60D,0.857,Gain of Loop (Pr = 0.27 | P = 0.03); Altered Transmembrane protein (Pr = 0.23 | P = 2.6e-03), ELME000052|PS00008,Predicted conservation scores
+ENSB:SMftv5HYbnuG0cj,E107G,0.496,-,-,Predicted conservation scores
+ENSB:fHVNqPtDhh1Akk4,E271G,0.667,Loss of Strand (Pr = 0.27 | P = 0.02); Gain of ADP-ribosylation at R268 (Pr = 0.23 | P = 0.01); Altered Transmembrane protein (Pr = 0.19 | P = 6.3e-03); Altered DNA binding (Pr = 0.14 | P = 0.05); Altered Stability (Pr = 0.13 | P = 0.03), ELME000051|ELME000239|ELME000337,Predicted conservation scores
+chaA,P6T,0.14,-,-,Predicted conservation scores
+chaA,A89V,0.275,-,-,Predicted conservation scores
+trmR,D16G,0.824,Altered Transmembrane protein (Pr = 0.21 | P = 4.2e-03), PS00008,Predicted conservation scores
+ENSB:pLbkfXu1pwObVsi,D118H,0.859,Altered Metal binding (Pr = 0.44 | P = 1.7e-03); Altered Ordered interface (Pr = 0.33 | P = 9.4e-03); Loss of Relative solvent accessibility (Pr = 0.26 | P = 0.03); Gain of Catalytic site at R116 (Pr = 0.25 | P = 4.9e-03); Loss of Allosteric site at R116 (Pr = 0.23 | P = 0.02); Altered Transmembrane protein (Pr = 0.14 | P = 0.02), None,Predicted conservation scores
+gabD2,I495L,0.231,-,-,Predicted conservation scores
+eccC5_1,D781G,0.16,-,-,Predicted conservation scores
+mgtC,G187E,0.15,-,-,Predicted conservation scores
+ureD,A200T,0.234,-,-,Predicted conservation scores
+acrC,G320S,0.881,Altered Ordered interface (Pr = 0.30 | P = 0.02); Altered Metal binding (Pr = 0.29 | P = 5.1e-03); Gain of Allosteric site at G320 (Pr = 0.26 | P = 8.3e-03); Loss of Catalytic site at I322 (Pr = 0.24 | P = 6.6e-03); Altered Transmembrane protein (Pr = 0.14 | P = 0.02), ELME000085,Predicted conservation scores
+ENSB:VspwWsjtw6BZxpi,T35A,0.446,-,-,Predicted conservation scores
+fabG3,A155D,0.918,Altered Metal binding (Pr = 0.33 | P = 0.01); Altered DNA binding (Pr = 0.30 | P = 1.4e-03); Gain of Acetylation at K157 (Pr = 0.27 | P = 7.6e-03); Gain of Allosteric site at K157 (Pr = 0.25 | P = 1.0e-02); Altered Ordered interface (Pr = 0.24 | P = 0.04); Loss of Catalytic site at K157 (Pr = 0.24 | P = 6.5e-03); Loss of Methylation at K157 (Pr = 0.15 | P = 0.02), ELME000182|PS00061,Predicted conservation scores
+cobN,R1143C,0.73,Loss of Relative solvent accessibility (Pr = 0.49 | P = 1.6e-04); Altered Transmembrane protein (Pr = 0.42 | P = 0.0e+00); Altered Metal binding (Pr = 0.34 | P = 0.01); Altered Ordered interface (Pr = 0.30 | P = 0.02); Loss of N-linked glycosylation at N1142 (Pr = 0.04 | P = 0.02), ELME000070|PS00001,Predicted conservation scores
+ENSB:Lkn-b9HguUbGhbd,A215T,0.353,-,-,Predicted conservation scores
+metH,S522P,0.858,Altered Metal binding (Pr = 0.32 | P = 0.01); Loss of Relative solvent accessibility (Pr = 0.32 | P = 5.5e-03); Altered Ordered interface (Pr = 0.31 | P = 0.02); Gain of Allosteric site at E520 (Pr = 0.29 | P = 2.9e-03); Altered Transmembrane protein (Pr = 0.23 | P = 2.3e-03); Loss of Catalytic site at E520 (Pr = 0.23 | P = 8.3e-03), ELME000012|ELME000321|PS00005|PS00006|PS00008,Predicted conservation scores
+pbpB,P453A,0.6,Loss of Relative solvent accessibility (Pr = 0.28 | P = 0.02); Gain of Strand (Pr = 0.26 | P = 0.04); Altered Metal binding (Pr = 0.24 | P = 0.02); Altered Transmembrane protein (Pr = 0.23 | P = 2.9e-03); Gain of Methylation at K457 (Pr = 0.12 | P = 0.02), ELME000135|ELME000259,Predicted conservation scores
+pepA,S295A,0.527,Altered Ordered interface (Pr = 0.31 | P = 0.02); Loss of Loop (Pr = 0.28 | P = 0.02); Altered Metal binding (Pr = 0.27 | P = 7.3e-03); Loss of Catalytic site at K291 (Pr = 0.27 | P = 3.2e-03); Loss of Strand (Pr = 0.26 | P = 0.04); Gain of Methylation at K291 (Pr = 0.24 | P = 1.4e-03); Loss of Relative solvent accessibility (Pr = 0.23 | P = 0.05); Gain of Ubiquitylation at K291 (Pr = 0.16 | P = 0.04); Loss of N-terminal acetylation at M299 (Pr = 0.02 | P = 6.6e-03), ELME000239|ELME000337,Predicted conservation scores
+cdh,T271P,0.326,-,-,Predicted conservation scores
+narK_3,S387A,0.723,Loss of Allosteric site at Y389 (Pr = 0.31 | P = 3.4e-03); Altered Ordered interface (Pr = 0.28 | P = 0.04); Loss of Catalytic site at N385 (Pr = 0.19 | P = 0.01); Altered Transmembrane protein (Pr = 0.17 | P = 9.5e-03); Altered DNA binding (Pr = 0.15 | P = 0.05); Altered Metal binding (Pr = 0.10 | P = 0.05); Gain of GPI-anchor amidation at N385 (Pr = 0.03 | P = 7.9e-03), ELME000070|ELME000337|PS00001|PS00008,Predicted conservation scores
+stp,G359V,0.552,Altered Transmembrane protein (Pr = 0.29 | P = 2.7e-04), PS00008,Predicted conservation scores
+cysK1,V189I,0.351,-,-,Predicted conservation scores
+ENSB:18bHBTwa7LPNjgn,K98E,0.578,Altered Metal binding (Pr = 0.51 | P = 4.5e-03); Loss of Acetylation at K98 (Pr = 0.42 | P = 1.1e-03); Loss of Relative solvent accessibility (Pr = 0.30 | P = 0.01); Altered Transmembrane protein (Pr = 0.28 | P = 6.6e-04); Altered DNA binding (Pr = 0.18 | P = 0.03); Gain of Ubiquitylation at K101 (Pr = 0.15 | P = 0.05), None,Predicted conservation scores
+mbtG,Q302H,0.226,-,-,Predicted conservation scores
+ggt,R350L,0.21,-,-,Predicted conservation scores
+ENSB:Yr-ddtCLZvXwA53,P92S,0.228,-,-,Predicted conservation scores
+folC,A452T,0.124,-,-,Predicted conservation scores
+accA1_2,F198S,0.704,Gain of Relative solvent accessibility (Pr = 0.32 | P = 4.7e-03); Gain of Intrinsic disorder (Pr = 0.30 | P = 0.05); Altered Metal binding (Pr = 0.28 | P = 5.0e-03); Altered Ordered interface (Pr = 0.28 | P = 0.04); Loss of Allosteric site at E200 (Pr = 0.25 | P = 0.02), ELME000052|ELME000147|ELME000328|ELME000337,Predicted conservation scores
+ENSB:SAzNl8uLRCfPPKA,L400F,0.295,-,-,Predicted conservation scores
+pimA,Q237H,0.408,-,-,Predicted conservation scores
+ENSB:qRl8IIxjVY4A92X,E166G,0.516,Loss of Relative solvent accessibility (Pr = 0.38 | P = 1.3e-03); Altered Ordered interface (Pr = 0.34 | P = 7.4e-03); Altered Metal binding (Pr = 0.28 | P = 0.02); Loss of Catalytic site at D171 (Pr = 0.27 | P = 3.6e-03); Gain of Allosteric site at D171 (Pr = 0.24 | P = 0.01), ELME000335,Predicted conservation scores
+kimA,T467A,0.108,-,-,Predicted conservation scores
+ENSB:v0Rrpz3bqZnfIM_,P13L,0.853,Altered Ordered interface (Pr = 0.33 | P = 8.0e-03); Gain of Relative solvent accessibility (Pr = 0.28 | P = 0.02); Altered DNA binding (Pr = 0.27 | P = 3.8e-03); Altered Disordered interface (Pr = 0.19 | P = 0.04); Altered Metal binding (Pr = 0.18 | P = 0.05); Gain of Catalytic site at Y9 (Pr = 0.17 | P = 0.02); Altered Transmembrane protein (Pr = 0.10 | P = 0.04), ELME000020|ELME000083|ELME000120|ELME000182|ELME000233|ELME000333,Predicted conservation scores
+infB,G234D,0.394,-,-,Predicted conservation scores
+ENSB:PhTskR3VdY9VjI1,P358A,0.368,-,-,Predicted conservation scores
+glnD,V238A,0.698,Altered Metal binding (Pr = 0.33 | P = 0.01); Loss of Relative solvent accessibility (Pr = 0.26 | P = 0.03); Altered DNA binding (Pr = 0.26 | P = 8.1e-03); Loss of Allosteric site at R239 (Pr = 0.25 | P = 0.01); Loss of Catalytic site at R239 (Pr = 0.20 | P = 0.01); Altered Stability (Pr = 0.20 | P = 0.01), ELME000220|ELME000231|ELME000321|ELME000335,Predicted conservation scores
+ENSB:HUblKKWjc8QPXSW,A95T,0.146,-,-,Predicted conservation scores
+ENSB:eUW8yZgBZ7LhF3R,R64W,0.513,Altered Metal binding (Pr = 0.28 | P = 6.8e-03); Gain of Relative solvent accessibility (Pr = 0.26 | P = 0.03); Altered Coiled coil (Pr = 0.20 | P = 0.02); Gain of Pyrrolidone carboxylic acid at Q61 (Pr = 0.06 | P = 0.03), ELME000080,Predicted conservation scores
+ENSB:Iv1z3kFdEg2kyF7,T216A,0.328,-,-,Predicted conservation scores
+ENSB:oWSXWezvk2LsIGG,T269A,0.194,-,-,Predicted conservation scores
+ENSB:soWsD63tmnKvb-e,E239K,0.384,-,-,Predicted conservation scores
+ENSB:I2r_EZWbWw5o5B3,R54S,0.408,-,-,Predicted conservation scores
+whiB,K82R,0.164,-,-,Predicted conservation scores
+ENSB:2J8Z5ZLBtGhgTla,P43S,0.081,-,-,Predicted conservation scores
+moaA1_2,A8G,0.137,-,-,Predicted conservation scores
+ENSB:uArsVi20ZmBJ-l5,F260C,0.906,Loss of Acetylation at K258 (Pr = 0.30 | P = 4.1e-03); Gain of Relative solvent accessibility (Pr = 0.29 | P = 0.01); Altered Metal binding (Pr = 0.28 | P = 0.02); Altered DNA binding (Pr = 0.28 | P = 4.1e-03); Altered Transmembrane protein (Pr = 0.21 | P = 3.8e-03), ELME000065|ELME000100|ELME000108|ELME000328,Predicted conservation scores
+ENSB:Dh47_crfAgIONct,I107T,0.692,Altered Stability (Pr = 0.36 | P = 3.6e-03); Altered Ordered interface (Pr = 0.27 | P = 0.05); Gain of Allosteric site at R109 (Pr = 0.27 | P = 5.2e-03); Gain of Relative solvent accessibility (Pr = 0.26 | P = 0.03); Gain of Catalytic site at R109 (Pr = 0.15 | P = 0.02), ELME000053|ELME000333|ELME000335|ELME000336|PS00005,Predicted conservation scores
+ENSB:JLhZAYJeYN-5Jm5,D86A,0.595,Altered Metal binding (Pr = 0.36 | P = 1.9e-03); Altered Ordered interface (Pr = 0.29 | P = 0.03); Loss of Allosteric site at H88 (Pr = 0.26 | P = 0.01); Loss of Relative solvent accessibility (Pr = 0.25 | P = 0.04); Gain of Catalytic site at H88 (Pr = 0.15 | P = 0.02); Loss of Sulfation at Y87 (Pr = 0.04 | P = 0.01), None,Predicted conservation scores
+crt,I201T,0.797,Altered Ordered interface (Pr = 0.30 | P = 0.02); Altered DNA binding (Pr = 0.28 | P = 4.9e-03); Gain of Relative solvent accessibility (Pr = 0.27 | P = 0.02); Altered Metal binding (Pr = 0.26 | P = 0.01); Loss of Acetylation at K196 (Pr = 0.26 | P = 9.5e-03); Gain of Allosteric site at K205 (Pr = 0.24 | P = 0.01); Gain of Ubiquitylation at K205 (Pr = 0.16 | P = 0.03); Altered Coiled coil (Pr = 0.15 | P = 0.03); Gain of Methylation at K205 (Pr = 0.15 | P = 0.01), ELME000052|ELME000062,Predicted conservation scores
+ipsA,P321S,0.283,-,-,Predicted conservation scores
+bpoC_3,Y185C,0.701,Altered Metal binding (Pr = 0.32 | P = 0.01); Gain of Helix (Pr = 0.27 | P = 0.04); Altered Disordered interface (Pr = 0.24 | P = 0.02); Altered Transmembrane protein (Pr = 0.19 | P = 6.9e-03); Gain of Pyrrolidone carboxylic acid at Q188 (Pr = 0.15 | P = 4.3e-03), ELME000163|PS00008,Predicted conservation scores
+ENSB:UdppIdx7ebCk03-,A272T,0.138,-,-,Predicted conservation scores
+ENSB:xff6YT5QTMcMmBG,A15P,0.873,Gain of Catalytic site at G19 (Pr = 0.29 | P = 1.8e-03); Altered Metal binding (Pr = 0.27 | P = 8.9e-03); Altered Transmembrane protein (Pr = 0.14 | P = 0.02); Altered DNA binding (Pr = 0.14 | P = 0.05), PS00008,Predicted conservation scores
+papA1,Q390P,0.926,Altered Transmembrane protein (Pr = 0.32 | P = 7.3e-05); Loss of Helix (Pr = 0.29 | P = 0.01); Gain of Loop (Pr = 0.28 | P = 0.01), ELME000155,Predicted conservation scores
+eccA1,A563T,0.115,-,-,Predicted conservation scores
+ENSB:gEjetlxBuDdwynM,T39S,0.066,-,-,Predicted conservation scores
+ENSB:S_tk4zPGZqj5GFb,L95V,0.397,-,-,Predicted conservation scores
+ENSB:-Ucs6ik4e7sRz0O,R744Q,0.25,-,-,Predicted conservation scores
+narK_1,E188D,0.461,-,-,Predicted conservation scores
+menA,A120T,0.538,Altered Transmembrane protein (Pr = 0.19 | P = 6.7e-03), ELME000052,Predicted conservation scores
+mshD,T147M,0.161,-,-,Predicted conservation scores
+fadH_1,P615T,0.302,-,-,Predicted conservation scores
+msl3,L1323M,0.408,-,-,Predicted conservation scores
+ENSB:50xrzvUIj5f6e-Y,A82T,0.228,-,-,Predicted conservation scores
+ENSB:_hTEj2bPWkZ_LVu,I170T,0.453,-,-,Predicted conservation scores
+fadA4,A49S,0.633,Altered Ordered interface (Pr = 0.29 | P = 0.02); Altered Transmembrane protein (Pr = 0.28 | P = 4.6e-04); Gain of Catalytic site at R50 (Pr = 0.27 | P = 2.5e-03); Gain of Allosteric site at R50 (Pr = 0.27 | P = 5.6e-03); Altered Metal binding (Pr = 0.24 | P = 3.9e-03); Altered DNA binding (Pr = 0.19 | P = 0.02); Loss of Pyrrolidone carboxylic acid at Q51 (Pr = 0.13 | P = 6.8e-03), PS00008,Predicted conservation scores
+wecE,G181S,0.918,Altered Metal binding (Pr = 0.32 | P = 1.6e-03); Altered Ordered interface (Pr = 0.32 | P = 9.2e-03); Loss of Catalytic site at G180 (Pr = 0.30 | P = 1.7e-03); Gain of Allosteric site at G178 (Pr = 0.27 | P = 6.3e-03); Gain of Relative solvent accessibility (Pr = 0.25 | P = 0.03); Altered DNA binding (Pr = 0.19 | P = 0.02), ELME000053|ELME000085|ELME000147|ELME000149,Predicted conservation scores
+glgX,N78D,0.227,-,-,Predicted conservation scores
+bioD,L4R,0.885,Altered Ordered interface (Pr = 0.55 | P = 4.9e-06); Gain of Intrinsic disorder (Pr = 0.36 | P = 0.02); Altered Stability (Pr = 0.34 | P = 4.3e-03); Gain of Relative solvent accessibility (Pr = 0.26 | P = 0.03); Loss of Catalytic site at T9 (Pr = 0.19 | P = 0.01); Altered Metal binding (Pr = 0.17 | P = 0.01); Loss of O-linked glycosylation at T9 (Pr = 0.12 | P = 0.05); Loss of N-terminal acetylation at M1 (Pr = 0.07 | P = 2.6e-03), ELME000053|ELME000146|ELME000173|ELME000333|ELME000335|ELME000336|PS00005,Predicted conservation scores
+ENSB:GTHV1C0DZq5Kpim,G63S,0.212,-,-,Predicted conservation scores
+cya,G313S,0.417,-,-,Predicted conservation scores
+pknE,A357V,0.27,-,-,Predicted conservation scores
+ureC,N205S,0.708,Gain of Catalytic site at K203 (Pr = 0.29 | P = 1.6e-03); Gain of Strand (Pr = 0.27 | P = 0.02); Gain of Allosteric site at L200 (Pr = 0.25 | P = 9.6e-03); Loss of Relative solvent accessibility (Pr = 0.24 | P = 0.04); Altered DNA binding (Pr = 0.15 | P = 0.05); Altered Metal binding (Pr = 0.10 | P = 0.05); Altered Transmembrane protein (Pr = 0.10 | P = 0.04), None,Predicted conservation scores
+ENSB:mWnXiHm1gDjqcVd,T337M,0.037,-,-,Predicted conservation scores
