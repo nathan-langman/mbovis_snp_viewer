@@ -71,7 +71,7 @@ def sample_view():
     st.dataframe(spec_genome_df.drop(['Host','classification','genome'],axis=1))
 
     st.subheader("Missense genes")
-    st.dataframe(spec_genome_df[spec_genome_df['snp__effect']=='missense_variant']['snp__gene_name'].value_counts().rename('Missense SNP count').reset_index())
+    st.dataframe(spec_genome_df[spec_genome_df['snp__effect']=='missense variant']['snp__gene_name'].value_counts().rename('Missense SNP count').reset_index())
 
 
 def gene_view():
